@@ -17,12 +17,12 @@ task updateAngleShoulderY()
 		wait1Msec(100);
 		if(((angle*-1))>(nMotorEncoder(motorB)))
 		{
-			motor[motorB] = 5;
+			motor[motorB] = 10;
 			displayString(9,"right");
 		}
 		else if ((angle*-1)<(nMotorEncoder(motorB)))
 		{
-			motor[motorB] = -5;
+			motor[motorB] = -10;
 			displayString(9,"left");
 			}else{
 			motor[motorB] = 0;
@@ -45,13 +45,13 @@ task updateAngleShoulderX()
 			wait1Msec(2000);
 			stopAllTasks();
 		}
-		if(((accelerometer.x)/2*4)>(nMotorEncoder(motorC)))
+		if(((accelerometer.x)/2*4)>(nMotorEncoder(motorC))+5)
 		{
 			motor[motorC] = 20;
 			displayString(8,"%f",nMotorEncoder(motorC));
 			displayString(9,"lower");
 		}
-		else if(((accelerometer.x)/2*4)<(nMotorEncoder(motorC)))
+		else if(((accelerometer.x)/2*4)<(nMotorEncoder(motorC))-5)
 		{
 			motor[motorC] = -20;
 		}
@@ -70,7 +70,7 @@ task updateAngleElbow()
 	{
 		if(nMotorEncoder(motorA)>nMotorEncoder(motorD)){
 			motor[motorD] = 20;
-			while ((nMotorEncoder(motorD))<((nMotorEncoder(motorA))*2))
+			while ((nMotorEncoder(motorD))<((nMotorEncoder(motorA))*3))
 			{
 				displayString(5,"%f",nMotorEncoder(motorA));
 			}
@@ -123,15 +123,15 @@ task updateGripper()
 }
 
 // Sleep Robot
-void sleepRobot()
-{
+//void sleepRobot()
+//{
 
-}
+//}
 
-void returnToRestPosition()
-{
+//void returnToRestPosition()
+//{
 
-}
+//}
 
 
 
@@ -161,15 +161,15 @@ task main()
 	wait1Msec(500);
 	startTask(updateAngleShoulderX);
 	wait1Msec(500);
-	startTask(updateAngleElbow);
-	wait1Msec(500);
-	startTask(updateGripper);
+	//startTask(updateAngleElbow);
+//	wait1Msec(500);
+//	startTask(updateGripper);
 	//startTask(TOne);
-	if(getMotorBrakeMode(motorD) != motorCoast)
-	{
-		setMotorBrakeMode(motorA, motorCoast);
-	}
-	displayString(3,"Coast");
+	//if(getMotorBrakeMode(motorA) != motorCoast)
+	//{
+	//	setMotorBrakeMode(motorA, motorCoast);
+	//}
+	//displayString(3,"Coast");
 
 
 	while(true)
