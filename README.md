@@ -5,6 +5,7 @@ University MTE 100 - MTE 121 Course Project
 
 This project was made possible by the works of Xander Soldaat at Bot Bench which can be found in the link below:
 https://github.com/botbench/robotcdriversuite
+Thank you very much!
 
 ![20221202_045158](https://user-images.githubusercontent.com/69880859/214206731-0ada67b8-57a4-4f63-b3bc-e4304852e3de.jpg)
 - Includes, 2 axis shoudler joint, elbow joint, and gripper
@@ -26,12 +27,12 @@ https://github.com/botbench/robotcdriversuite
 - Responsible for controlling the elbow flexion in the robot arm
 - Required the use of an external power supply
 
-## Gyro - Shoulder Yaw
+## Gyro - Shoulder Yaw Controller
 ![20221202_070926](https://user-images.githubusercontent.com/69880859/214206764-7d07df9d-23f4-4035-82e2-367859ae875b.jpg)
 - Responsible for rotating the shoulder joint left to right
 - After having consistent difficulty with the accelerometer, it was discovered that the component was not suitable for multi axis rotaiton measuring. Instead, we had to adapt and included a gyro that lies fixed to the table.
 
-## Accelerometer - Shoulder Pitch
+## Accelerometer - Shoulder Pitch Controller
 ![20221202_072401](https://user-images.githubusercontent.com/69880859/214206773-774e6d42-41d8-40cf-9684-6eefc3411d50.jpg)
 - Responsible for rotating the shoulder up and down
 
@@ -43,5 +44,5 @@ https://user-images.githubusercontent.com/69880859/214205902-2f82448c-034f-4907-
 
 *Note it was pretty cool controlling the robot, at times it really felt like my arm was one with the robot arm 😅
 
-Although the project met the requirements and the  was really fun, I wish we spent more time recording the projects functionality and showcasing its ability in a better manner. It is great to have a cool project but the presentation of such project is just as important as its content. This is one of the many lessons I have learned in this stressful yet fun project! Shoutout to the group members and look forward to what the next project entails!
+Although the project met the requirements and the  was really fun, I wish we spent more time recording the projects functionality and showcasing its ability in a better manner. It is great to have a cool project but the presentation of such project is just as important as its content. This is one of the many lessons I have learned in this stressful yet fun project! Shoutout to the group members and look forward to what the next project entails! Hope you found this project cool too!
 
