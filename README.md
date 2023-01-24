@@ -10,7 +10,7 @@ https://github.com/botbench/robotcdriversuite
 - Includes, 2 axis shoudler joint, elbow joint, and gripper
 - Some features include: Live human operation, Rest state, Automated default position return, relatively high precision for all the limitations with the project assignment details
 - This project aimed to create a device that allowed the operation of a robot arm using the natural movements of a human arm. It is aimed towards the application of remote controlled robots arms to replace human workers in hazardous environments or perhaps can be used in remote surgical operaions (with many imoprovements ofcourse).
-
+- Limittations included: Short time constraint, very very very small broke student budget, was only allowed to use Lego EV3/NXT and Tetrix, motor mechanical capabilities, sensor/motor limited ports, etc.
 
 # Wearable Sensor Setup
 
