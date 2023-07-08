@@ -6,14 +6,19 @@ Project Purpose: Translate human arm motion to a robot arm
 
 University MTE 100 - MTE 121 Course Project
 
-This project was made possible by the works of Xander Soldaat at Bot Bench which can be found in the link below:
+Acknowledgements:
+This project was made possible by the excellent work of Xander Soldaat at Bot Bench which can be found in the link below:
 https://github.com/botbench/robotcdriversuite
 Thank you very much!
+
+# Brief Description
+This course project was an opportunity to do sopmething cool. With an ambitious mindset, our group decided to attempt to create a robotic arm that mimics a human arm. - This project aimed to create a device that allowed the operation of a robot arm using the natural movements of a human arm. It is aimed towards the application of remote controlled robots arms to replace human workers in hazardous environments or perhaps can be used in remote surgical operaions (with many imoprovements ofcourse). This project also provided an insight into how we can effectively use robotics to augment physical limitations of the human body in a comfortable and non-intrusive manner. After many limitations, countless challenges, and whole lotta hard work, I am proud to present what could be seen as a step towards a future with robotics better utilizing natural human biomechanics.
+
 
 ![20221202_045158](https://user-images.githubusercontent.com/69880859/214206731-0ada67b8-57a4-4f63-b3bc-e4304852e3de.jpg)
 - Includes: multi-axis shoudler joint, elbow joint, and gripper
 - Some features include: Live human operation, Rest state, Automated default position return, relatively high precision for all the limitations with the project assignment details
-- This project aimed to create a device that allowed the operation of a robot arm using the natural movements of a human arm. It is aimed towards the application of remote controlled robots arms to replace human workers in hazardous environments or perhaps can be used in remote surgical operaions (with many imoprovements ofcourse).
+
 - Limitations included: Short time constraint, very small broke student budget, was only allowed to use Lego EV3/NXT and Tetrix, motor mechanical capabilities, sensor/motor limited ports, etc.
 
 # Wearable Sensor Setup
@@ -21,8 +26,8 @@ Thank you very much!
 ## Hand Controller
 ![hand shot](https://user-images.githubusercontent.com/69880859/214206983-d9e0ca70-df66-4dce-b4d5-ccbf8f15b145.jpg)
 - Responsible for controlling the gripper
-- Arm only operates when hand is in device using ultrasound sensor. This was pretty cool to see because the robot is in sleep mode until the user puts their hand in the hand controller and it springs to life and becomes very responsive. A very cool feeling!
-- Another cool part is when the user decides to put the robot to sleep, and takes their hand out, the robot returns to a default rest position automatically. Also cool to see in action, similar to watching an industrial automated robot arm.
+- Arm only operates when hand is in device using ultrasound sensor. This was pretty cool to see because the robot is in sleep mode until the user puts their hand in the hand controller and it springs to life and becomes very responsive. A very thrilling feeling!
+- Another exciting aspect is the auto-return function. When the user decides to put the robot to sleep, and takes their hand out, the robot returns to a default rest position automatically. Also cool to see in action - similar to watching an industrial automated robot arm shut off.
 
 ## Elbow Controller
 ![20221202_070751](https://user-images.githubusercontent.com/69880859/214206743-221d6c90-0c2a-488c-ad58-39134511b6f6.jpg)
