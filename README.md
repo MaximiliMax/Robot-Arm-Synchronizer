@@ -4,7 +4,7 @@
 ![Hero_Shot](https://user-images.githubusercontent.com/69880859/214206669-7a899684-68eb-4cd2-ad90-e297770b5580.jpg)
 Project Purpose: Translate human arm motion to a robot arm
 
-University MTE 100 - MTE 121 Course Project
+University First Year | MTE 100 & MTE 121 Course Project
 
 Acknowledgements:
 This project was made possible by the excellent work of Xander Soldaat at Bot Bench which can be found in the link below:
@@ -12,7 +12,7 @@ https://github.com/botbench/robotcdriversuite
 Thank you very much!
 
 # Brief Description
-This course project was an opportunity to do sopmething cool. With an ambitious mindset, our group decided to attempt to create a robotic arm that mimics a human arm. - This project aimed to create a device that allowed the operation of a robot arm using the natural movements of a human arm. It is aimed towards the application of remote controlled robots arms to replace human workers in hazardous environments or perhaps can be used in remote surgical operaions (with many imoprovements ofcourse). This project also provided an insight into how we can effectively use robotics to augment physical limitations of the human body in a comfortable and non-intrusive manner. After many limitations, countless challenges, and whole lotta hard work, I am proud to present what could be seen as a step towards a future with robotics better utilizing natural human biomechanics.
+This course project was an opportunity to do something intresting yet challenging - an opportunity to learn and grow. With an ambitious mindset, our group decided to attempt to create a robotic arm that mimics a the natural movements of a human arm. It is aimed towards the application of remote controlled robots arms to replace human workers in hazardous environments or perhaps can be used in remote surgical operaions (with many imoprovements ofcourse). This project also provided an insight into how we can effectively use robotics in conjuction with the human body in a comfortable and non-intrusive manner. After many limitations, countless challenges, and whole lotta hard work, I am proud to present what could be seen as a step towards a future with robotics better utilizing natural human biomechanics.
 
 
 ![20221202_045158](https://user-images.githubusercontent.com/69880859/214206731-0ada67b8-57a4-4f63-b3bc-e4304852e3de.jpg)
