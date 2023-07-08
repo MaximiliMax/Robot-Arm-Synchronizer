@@ -1,4 +1,5 @@
 # Robot Arm Synchronizer
+(Videos provided at bottom of page)
 ![Hero_Shot](https://user-images.githubusercontent.com/69880859/214206669-7a899684-68eb-4cd2-ad90-e297770b5580.jpg)
 Project Purpose: Translate human arm motion to a robot arm
 
