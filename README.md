@@ -1,5 +1,17 @@
 # Robot Arm Synchronizer
-(Videos provided at bottom of page)
+
+## Demo Angle 1
+
+
+https://github.com/MaximiliMax/Robot-Arm-Synchronizer/assets/69880859/3da54aeb-7bdc-4039-940b-57b35099fc13
+
+
+
+## Demo Angle 2
+
+
+https://github.com/MaximiliMax/Robot-Arm-Synchronizer/assets/69880859/2ebdbe2d-c5b7-4bd8-ba1f-65f45127b169
+
 
 ![Hero_Shot](https://user-images.githubusercontent.com/69880859/214206669-7a899684-68eb-4cd2-ad90-e297770b5580.jpg)
 Project Purpose: Translate human arm motion to a robot arm
@@ -43,11 +55,7 @@ This course project was an opportunity to do something intresting yet challengin
 ![20221202_072401](https://user-images.githubusercontent.com/69880859/214206773-774e6d42-41d8-40cf-9684-6eefc3411d50.jpg)
 - Responsible for rotating the shoulder up and down
 
-## Demo Angle 1
-https://user-images.githubusercontent.com/69880859/214205848-4d4ff07f-d88f-48ee-845a-955de6202581.MOV
 
-## Demo Angle 2
-https://user-images.githubusercontent.com/69880859/214205902-2f82448c-034f-4907-8ba6-2df5b6a2bfcd.MOV
 
 Note: Although the demo was a little janky (pulled an all nighter prior), it was pretty cool controlling the robot, at times it really felt like my arm was one with the robot arm 😅.
 
