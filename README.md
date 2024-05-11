@@ -3,14 +3,21 @@
 ## Demo Angle 1
 
 
-https://github.com/MaximiliMax/Robot-Arm-Synchronizer/assets/69880859/3da54aeb-7bdc-4039-940b-57b35099fc13
+
+https://github.com/MaximiliMax/Robot-Arm-Synchronizer/assets/69880859/1e686f7f-8267-4dd7-8ab4-e3242749dedb
+
+
+
 
 
 
 ## Demo Angle 2
 
 
-https://github.com/MaximiliMax/Robot-Arm-Synchronizer/assets/69880859/2ebdbe2d-c5b7-4bd8-ba1f-65f45127b169
+
+https://github.com/MaximiliMax/Robot-Arm-Synchronizer/assets/69880859/cb7b3b16-989e-42aa-bc9f-7f074de7f953
+
+
 
 
 ![Hero_Shot](https://user-images.githubusercontent.com/69880859/214206669-7a899684-68eb-4cd2-ad90-e297770b5580.jpg)
